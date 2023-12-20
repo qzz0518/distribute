@@ -124,3 +124,4 @@ export const chainMap = {
         gas: 80000,
     }
 }
+
