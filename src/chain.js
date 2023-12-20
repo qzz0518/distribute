@@ -110,5 +110,17 @@ export const chainMap = {
         gas:80000,
         coin_type:118
 
+    },
+    "shentu-2.2": {
+        name: 'Shentu',
+        chain_status: 'experiemental',
+        rpc: 'https://shentu-rpc.polkachu.com/',
+        rest: "https://shentu-rpc.polkachu.com/",
+        symbol: 'CTK',
+        denom: "uctk",
+        exponent: 6,
+        min_tx_fee: "0",
+        prefix: "ctk",
+        gas: 80000,
     }
 }
