@@ -115,7 +115,7 @@ export const chainMap = {
         name: 'Shentu',
         chain_status: 'experiemental',
         rpc: 'https://shentu-rpc.polkachu.com/',
-        rest: "https://shentu-rpc.polkachu.com/",
+        rest: "https://rest.cosmos.directory/shentu",
         symbol: 'CTK',
         denom: "uctk",
         exponent: 6,
