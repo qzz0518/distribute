@@ -122,6 +122,18 @@ export const chainMap = {
         min_tx_fee: "0",
         prefix: "ctk",
         gas: 80000,
+    },
+    "injective-1": {
+        name: 'injective',
+        chain_status: 'experiemental',
+        rpc: 'https://rpc.cosmos.directory/injective',
+        rest: "https://rest.cosmos.directory/injective",
+        symbol: 'INJ',
+        denom: "inj",
+        exponent: 18,
+        min_tx_fee: "1",
+        prefix: "inj",
+        gas: 120000,
     }
 }
 
